@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace FirstGitApp
 {
-    class Program
+    class myTes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("tester app");
-            Console.WriteLine("this is update to git");
+            Console.WriteLine("my tester2");
             System.Threading.Thread.Sleep(5000);
         }
     }
